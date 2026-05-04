@@ -9,6 +9,7 @@
 [![DE Study Engine](https://img.shields.io/badge/DE_Study_Engine-e67e22?style=flat-square)](https://breton-training.github.io/DE-Study-Engine/)
 [![Fermentation Protocol](https://img.shields.io/badge/Fermentation_Protocol-27ae60?style=flat-square)](https://breton-training.github.io/fermented-dairy/)
 [![CoPilot Intro](https://img.shields.io/badge/CoPilot_Intro-8e44ad?style=flat-square)](https://breton-training.github.io/CoPilot-intro/)
+[![E67 LL8 Wiring](https://img.shields.io/badge/E67_LL8_Wiring-c0392b?style=flat-square)](https://breton-training.github.io/e67-ll8-wiring/)
 [![Email](https://img.shields.io/badge/breton.training%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:breton.training@gmail.com)
 
 </div>
@@ -65,6 +66,32 @@ Practical integration of AI assistance into real development work. Focused on bu
 <br/>
 
 [![Launch Guide →](https://img.shields.io/badge/Launch_Guide_%E2%86%92-8e44ad?style=for-the-badge)](https://breton-training.github.io/CoPilot-intro/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Projects & References
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔧 E67 LL8 Wiring Reference**
+`Vehicle wiring · Interactive ECM pinout`
+
+Two-view interactive reference for the GM E67 ECM as fitted to the 2008–2009 Trailblazer 4.2L Atlas I6 (LL8). Connector view for harness work, systems view for bench-flash setup. Built for a '54 Chevy engine swap, applies to any project using this ECM.
+
+<br/>
+
+[![Launch Reference →](https://img.shields.io/badge/Launch_Reference_%E2%86%92-c0392b?style=for-the-badge)](https://breton-training.github.io/e67-ll8-wiring/)
+
+</td>
+<td width="50%" valign="top">
+
+<!-- room for the next project -->
 
 </td>
 </tr>
