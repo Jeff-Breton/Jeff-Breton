@@ -8,7 +8,6 @@
 [![DC Electronics](https://img.shields.io/badge/DC_Electronics-2563eb?style=flat-square&logo=lightning&logoColor=white)](https://breton-training.github.io/dc-electronics-intro/)
 [![DE Study Engine](https://img.shields.io/badge/DE_Study_Engine-e67e22?style=flat-square)](https://breton-training.github.io/DE-Study-Engine/)
 [![Fermentation Protocol](https://img.shields.io/badge/Fermentation_Protocol-27ae60?style=flat-square)](https://breton-training.github.io/fermented-dairy/)
-[![CoPilot Intro](https://img.shields.io/badge/CoPilot_Intro-8e44ad?style=flat-square)](https://breton-training.github.io/CoPilot-intro/)
 [![E67 LL8 Wiring](https://img.shields.io/badge/E67_LL8_Wiring-c0392b?style=flat-square)](https://breton-training.github.io/e67-ll8-wiring/)
 [![Email](https://img.shields.io/badge/breton.training%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:breton.training@gmail.com)
 
@@ -58,14 +57,7 @@ Eight targeted probiotic strains with documented strain-specific effects. Ground
 </td>
 <td width="50%" valign="top">
 
-**🤖 GitHub CoPilot — Introduction**
-`Developers · AI-assisted workflows`
-
-Practical integration of AI assistance into real development work. Focused on building judgment about when to use it and when not to — not a feature walkthrough.
-
-<br/>
-
-[![Launch Guide →](https://img.shields.io/badge/Launch_Guide_%E2%86%92-8e44ad?style=for-the-badge)](https://breton-training.github.io/CoPilot-intro/)
+<!-- room for the next course -->
 
 </td>
 </tr>
