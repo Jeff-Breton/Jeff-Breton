@@ -20,13 +20,13 @@
 <td width="50%" valign="top">
 
 **🔧 E67 LL8 Wiring Reference**
-`Vehicle wiring · Interactive ECM pinout`
+`Bench-flash tutorial · Interactive ECM pinout`
 
-Two-view interactive reference for the GM E67 ECM as fitted to the 2008–2009 Trailblazer 4.2L Atlas I6 (LL8). Connector view for harness work, systems view for bench-flash setup. Built for a '54 Chevy engine swap, applies to any project using this ECM.
+Get an E67 ECM (2008–2009 Trailblazer, 4.2L Atlas I6 / LL8) talking to HP Tuners on the bench. Step-by-step harness tutorial — supply settings, the seven minimum ECM wires, and OBDII socket wiring with factory-vs-aftermarket terminator guidance. Plus searchable connector-layout and circuit-by-system reference views, every pin verified against physical donor connectors.
 
 <br/>
 
-[![Launch Reference →](https://img.shields.io/badge/Launch_Reference_%E2%86%92-c0392b?style=for-the-badge)](https://breton-training.github.io/e67-ll8-wiring/)
+[![Start Tutorial →](https://img.shields.io/badge/Start_Tutorial_%E2%86%92-c0392b?style=for-the-badge)](https://breton-training.github.io/e67-ll8-wiring/)
 
 </td>
 <td width="50%" valign="top">
