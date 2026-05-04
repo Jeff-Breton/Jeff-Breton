@@ -13,6 +13,32 @@
 
 </div>
 
+## Projects & References
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔧 E67 LL8 Wiring Reference**
+`Vehicle wiring · Interactive ECM pinout`
+
+Two-view interactive reference for the GM E67 ECM as fitted to the 2008–2009 Trailblazer 4.2L Atlas I6 (LL8). Connector view for harness work, systems view for bench-flash setup. Built for a '54 Chevy engine swap, applies to any project using this ECM.
+
+<br/>
+
+[![Launch Reference →](https://img.shields.io/badge/Launch_Reference_%E2%86%92-c0392b?style=for-the-badge)](https://breton-training.github.io/e67-ll8-wiring/)
+
+</td>
+<td width="50%" valign="top">
+
+<!-- room for the next project -->
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Courses
 
 <table>
@@ -58,32 +84,6 @@ Eight targeted probiotic strains with documented strain-specific effects. Ground
 <td width="50%" valign="top">
 
 <!-- room for the next course -->
-
-</td>
-</tr>
-</table>
-
----
-
-## Projects & References
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔧 E67 LL8 Wiring Reference**
-`Vehicle wiring · Interactive ECM pinout`
-
-Two-view interactive reference for the GM E67 ECM as fitted to the 2008–2009 Trailblazer 4.2L Atlas I6 (LL8). Connector view for harness work, systems view for bench-flash setup. Built for a '54 Chevy engine swap, applies to any project using this ECM.
-
-<br/>
-
-[![Launch Reference →](https://img.shields.io/badge/Launch_Reference_%E2%86%92-c0392b?style=for-the-badge)](https://breton-training.github.io/e67-ll8-wiring/)
-
-</td>
-<td width="50%" valign="top">
-
-<!-- room for the next project -->
 
 </td>
 </tr>
