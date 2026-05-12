@@ -9,7 +9,7 @@
 [![DE Study Engine](https://img.shields.io/badge/DE_Study_Engine-e67e22?style=flat-square)](https://breton-training.github.io/DE-Study-Engine/)
 [![Fermentation Protocol](https://img.shields.io/badge/Fermentation_Protocol-27ae60?style=flat-square)](https://breton-training.github.io/fermented-dairy/)
 [![E67 LL8 Wiring](https://img.shields.io/badge/E67_LL8_Wiring-c0392b?style=flat-square)](https://breton-training.github.io/e67-ll8-wiring/)
-[![The Keeper](https://img.shields.io/badge/The_Keeper-7c3aed?style=flat-square)](https://github.com/breton-training/The-Keeper)
+[![The Keeper](https://img.shields.io/badge/The_Keeper-7c3aed?style=flat-square)](https://breton-training.github.io/The-Keeper/)
 [![Email](https://img.shields.io/badge/breton.training%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:breton.training@gmail.com)
 
 </div>
