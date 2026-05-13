@@ -7,9 +7,10 @@
 
 [![DC Electronics](https://img.shields.io/badge/DC_Electronics-2563eb?style=flat-square&logo=lightning&logoColor=white)](https://breton-training.github.io/dc-electronics-intro/)
 [![DE Study Engine](https://img.shields.io/badge/DE_Study_Engine-e67e22?style=flat-square)](https://breton-training.github.io/DE-Study-Engine/)
-[![Fermentation Protocol](https://img.shields.io/badge/Fermentation_Protocol-27ae60?style=flat-square)](https://breton-training.github.io/fermented-dairy/)
 [![E67 LL8 Wiring](https://img.shields.io/badge/E67_LL8_Wiring-c0392b?style=flat-square)](https://breton-training.github.io/e67-ll8-wiring/)
 [![The Keeper](https://img.shields.io/badge/The_Keeper-7c3aed?style=flat-square)](https://breton-training.github.io/The-Keeper/)
+<!-- Fermentation Protocol is anchored at the bottom of project badges. Insert new badges ABOVE this comment. -->
+[![Fermentation Protocol](https://img.shields.io/badge/Fermentation_Protocol-27ae60?style=flat-square)](https://breton-training.github.io/fermented-dairy/)
 [![Email](https://img.shields.io/badge/breton.training%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:breton.training@gmail.com)
 
 </div>
@@ -43,6 +44,8 @@ Voltage, current, and resistance as relationships to reason through — not defi
 Aligned with OPM, DOI, and BLM standards. Builds the working knowledge needed to reason through exam questions — not pattern-match to memorized answers.
 
 [![Launch Study Engine →](https://img.shields.io/badge/Launch_Study_Engine_%E2%86%92-e67e22?style=for-the-badge)](https://breton-training.github.io/DE-Study-Engine/)
+
+<!-- Fermented Dairy is anchored at the bottom of Courses. Insert new courses ABOVE this comment. -->
 
 ### 🧫 Fermented Dairy Protocol
 
