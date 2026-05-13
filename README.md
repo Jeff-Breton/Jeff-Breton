@@ -27,6 +27,18 @@ Get an E67 ECM (2008–2009 Trailblazer, 4.2L Atlas I6 / LL8) talking to HP Tune
 
 ---
 
+## Writing
+
+### 📖 The Keeper
+
+`Close reading · From the garden to the open gate`
+
+A book tracing the biblical thread of the keeper — the assignment first given to Adam in Eden to serve and to guard, followed through Genesis and onward in the Hebrew text. Lexical work on the verbs that shape the story, grounded in the primary sources.
+
+[![Read →](https://img.shields.io/badge/Read_%E2%86%92-7c3aed?style=for-the-badge)](https://breton-training.github.io/The-Keeper/)
+
+---
+
 ## Courses
 
 ### ⚡ DC Electronics — Ohm's Law
@@ -45,7 +57,7 @@ Aligned with OPM, DOI, and BLM standards. Builds the working knowledge needed to
 
 [![Launch Study Engine →](https://img.shields.io/badge/Launch_Study_Engine_%E2%86%92-e67e22?style=for-the-badge)](https://breton-training.github.io/DE-Study-Engine/)
 
-<!-- Fermented Dairy is anchored at the bottom of Courses. Insert new courses ABOVE this comment. -->
+<!-- Fermented Dairy is anchored at the bottom of Courses (and Courses is the last content section before In Development). Insert new courses ABOVE this comment. -->
 
 ### 🧫 Fermented Dairy Protocol
 
@@ -54,18 +66,6 @@ Aligned with OPM, DOI, and BLM standards. Builds the working knowledge needed to
 Eight targeted probiotic strains with documented strain-specific effects. Grounded in peer-reviewed literature so practitioners understand why the protocol works, not just how to follow it.
 
 [![Launch Protocol →](https://img.shields.io/badge/Launch_Protocol_%E2%86%92-27ae60?style=for-the-badge)](https://breton-training.github.io/fermented-dairy/)
-
----
-
-## Writing
-
-### 📖 The Keeper
-
-`Close reading · From the garden to the open gate`
-
-A book tracing the biblical thread of the keeper — the assignment first given to Adam in Eden to serve and to guard, followed through Genesis and onward in the Hebrew text. Lexical work on the verbs that shape the story, grounded in the primary sources.
-
-[![Read →](https://img.shields.io/badge/Read_%E2%86%92-7c3aed?style=for-the-badge)](https://breton-training.github.io/The-Keeper/)
 
 ---
 
