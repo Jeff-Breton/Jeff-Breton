@@ -54,6 +54,18 @@ Eight targeted probiotic strains with documented strain-specific effects. Ground
 
 ---
 
+## Writing
+
+### 📖 The Keeper
+
+`Close reading · From the garden to the open gate`
+
+A book tracing the biblical thread of the keeper — the assignment first given to Adam in Eden to serve and to guard, followed through Genesis and onward in the Hebrew text. Lexical work on the verbs that shape the story, grounded in the primary sources.
+
+[![Read →](https://img.shields.io/badge/Read_%E2%86%92-7c3aed?style=for-the-badge)](https://breton-training.github.io/The-Keeper/)
+
+---
+
 ## In Development
 
 | Course | Audience | Status | Updated |
