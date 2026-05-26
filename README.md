@@ -20,7 +20,7 @@
 
 Get an E67 ECM (2008–2009 Trailblazer, 4.2L Atlas I6 / LL8) talking to HP Tuners on the bench. Step-by-step harness tutorial — supply settings, the seven minimum ECM wires, and OBDII socket wiring with factory-vs-aftermarket terminator guidance. Plus searchable connector-layout and circuit-by-system reference views, every pin verified against physical donor connectors.
 
-[![Start Tutorial →](https://img.shields.io/badge/Start_Tutorial_%E2%86%92-c0392b?style=for-the-badge)](https://jeff-breton.github.io/e67-ll8-wiring/)
+[![Read →](https://img.shields.io/badge/Read_%E2%86%92-c0392b?style=for-the-badge)](https://jeff-breton.github.io/e67-ll8-wiring/)
 
 ### 🛻 The Inside
 
