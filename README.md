@@ -30,6 +30,30 @@ Interior build for a 1954 Chevy truck, built around a 1953 Cadillac dashboard ch
 
 [![Read →](https://img.shields.io/badge/Read_%E2%86%92-b8956a?style=for-the-badge)](https://jeff-breton.github.io/53-Cadillac-Interior/)
 
+### ⚡ DC Electronics — Ohm's Law
+
+`Interactive walkthrough · Voltage, current, resistance`
+
+An interactive walkthrough of Ohm's Law. Voltage, current, and resistance treated as relationships rather than isolated definitions.
+
+[![Read →](https://img.shields.io/badge/Read_%E2%86%92-2563eb?style=for-the-badge)](https://jeff-breton.github.io/dc-electronics-intro/)
+
+### 📋 Delegated Examining Study Engine
+
+`OPM / DOI / BLM reference`
+
+Reference material covering the Delegated Examining process. OPM, DOI, and BLM standards organized around the working knowledge they require.
+
+[![Read →](https://img.shields.io/badge/Read_%E2%86%92-e67e22?style=for-the-badge)](https://jeff-breton.github.io/DE-Study-Engine/)
+
+### 🧫 Fermented Dairy Protocol
+
+`Strain-specific probiotics`
+
+Eight targeted probiotic strains with documented strain-specific effects, grounded in peer-reviewed literature. The protocol with the reasoning behind it.
+
+[![Read →](https://img.shields.io/badge/Read_%E2%86%92-27ae60?style=for-the-badge)](https://jeff-breton.github.io/fermented-dairy/)
+
 ---
 
 ## Writing
@@ -41,46 +65,6 @@ Interior build for a 1954 Chevy truck, built around a 1953 Cadillac dashboard ch
 A book tracing the biblical thread of the keeper — the assignment first given to Adam in Eden to serve and to guard, followed through Genesis and onward in the Hebrew text. Lexical work on the verbs that shape the story, grounded in the primary sources.
 
 [![Read →](https://img.shields.io/badge/Read_%E2%86%92-7c3aed?style=for-the-badge)](https://jeff-breton.github.io/The-Keeper/)
-
----
-
-## Courses
-
-### ⚡ DC Electronics — Ohm's Law
-
-`Ages 7–12 · Interactive lessons`
-
-Voltage, current, and resistance as relationships to reason through — not definitions to memorize. Students leave able to apply Ohm's Law to problems they haven't seen before.
-
-[![Launch Course →](https://img.shields.io/badge/Launch_Course_%E2%86%92-2563eb?style=for-the-badge)](https://jeff-breton.github.io/dc-electronics-intro/)
-
-### 📋 Delegated Examining Study Engine
-
-`Federal job applicants · Exam preparation`
-
-Aligned with OPM, DOI, and BLM standards. Builds the working knowledge needed to reason through exam questions — not pattern-match to memorized answers.
-
-[![Launch Study Engine →](https://img.shields.io/badge/Launch_Study_Engine_%E2%86%92-e67e22?style=for-the-badge)](https://jeff-breton.github.io/DE-Study-Engine/)
-
-<!-- Fermented Dairy is anchored at the bottom of Courses (and Courses is the last content section before In Development). Insert new courses ABOVE this comment. -->
-
-### 🧫 Fermented Dairy Protocol
-
-`Home fermenters · Evidence-based guide`
-
-Eight targeted probiotic strains with documented strain-specific effects. Grounded in peer-reviewed literature so practitioners understand why the protocol works, not just how to follow it.
-
-[![Launch Protocol →](https://img.shields.io/badge/Launch_Protocol_%E2%86%92-27ae60?style=for-the-badge)](https://jeff-breton.github.io/fermented-dairy/)
-
----
-
-## In Development
-
-| Course | Audience | Status | Updated |
-|---|---|---|---|
-| **Petroleum Terminal Operations** | Terminal operators, new hires | SOP development — AccuLoad systems and terminal management | Apr 2026 |
-| **Ethanol Handling & Safety** | Industrial personnel | Certification preparation — handling, safety, regulatory compliance | Apr 2026 |
-| **Technical Resource Library** | Technicians, historians | Digitizing legacy equipment manuals and operational references | Apr 2026 |
 
 ---
 
