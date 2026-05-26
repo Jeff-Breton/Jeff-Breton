@@ -1,17 +1,14 @@
 <!-- HEADER -->
 <div align="center">
 
-<p style="font-size:1.3em; font-weight:600; margin-bottom:4px;">Technical Trainer &nbsp;·&nbsp; Curriculum Designer</p>
-
-<br/>
-
-[![DC Electronics](https://img.shields.io/badge/DC_Electronics-2563eb?style=flat-square&logo=lightning&logoColor=white)](https://breton-training.github.io/dc-electronics-intro/)
-[![DE Study Engine](https://img.shields.io/badge/DE_Study_Engine-e67e22?style=flat-square)](https://breton-training.github.io/DE-Study-Engine/)
-[![E67 LL8 Wiring](https://img.shields.io/badge/E67_LL8_Wiring-c0392b?style=flat-square)](https://breton-training.github.io/e67-ll8-wiring/)
-[![The Keeper](https://img.shields.io/badge/The_Keeper-7c3aed?style=flat-square)](https://breton-training.github.io/The-Keeper/)
+[![DC Electronics](https://img.shields.io/badge/DC_Electronics-2563eb?style=flat-square&logo=lightning&logoColor=white)](https://jeff-breton.github.io/dc-electronics-intro/)
+[![DE Study Engine](https://img.shields.io/badge/DE_Study_Engine-e67e22?style=flat-square)](https://jeff-breton.github.io/DE-Study-Engine/)
+[![E67 LL8 Wiring](https://img.shields.io/badge/E67_LL8_Wiring-c0392b?style=flat-square)](https://jeff-breton.github.io/e67-ll8-wiring/)
+[![The Keeper](https://img.shields.io/badge/The_Keeper-7c3aed?style=flat-square)](https://jeff-breton.github.io/The-Keeper/)
+[![The Inside](https://img.shields.io/badge/The_Inside-b8956a?style=flat-square)](https://jeff-breton.github.io/53-Cadillac-Interior/)
 <!-- Fermentation Protocol is anchored at the bottom of project badges. Insert new badges ABOVE this comment. -->
-[![Fermentation Protocol](https://img.shields.io/badge/Fermentation_Protocol-27ae60?style=flat-square)](https://breton-training.github.io/fermented-dairy/)
-[![Email](https://img.shields.io/badge/breton.training%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:breton.training@gmail.com)
+[![Fermentation Protocol](https://img.shields.io/badge/Fermentation_Protocol-27ae60?style=flat-square)](https://jeff-breton.github.io/fermented-dairy/)
+[![Email](https://img.shields.io/badge/redmagne%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:redmagne@gmail.com)
 
 </div>
 
@@ -23,7 +20,15 @@
 
 Get an E67 ECM (2008–2009 Trailblazer, 4.2L Atlas I6 / LL8) talking to HP Tuners on the bench. Step-by-step harness tutorial — supply settings, the seven minimum ECM wires, and OBDII socket wiring with factory-vs-aftermarket terminator guidance. Plus searchable connector-layout and circuit-by-system reference views, every pin verified against physical donor connectors.
 
-[![Start Tutorial →](https://img.shields.io/badge/Start_Tutorial_%E2%86%92-c0392b?style=for-the-badge)](https://breton-training.github.io/e67-ll8-wiring/)
+[![Start Tutorial →](https://img.shields.io/badge/Start_Tutorial_%E2%86%92-c0392b?style=for-the-badge)](https://jeff-breton.github.io/e67-ll8-wiring/)
+
+### 🛻 The Inside
+
+`1954 Chevy · 1953 Cadillac dash · Build log`
+
+Interior build for a 1954 Chevy truck, built around a 1953 Cadillac dashboard chopped down and welded into the cab. The dash, gauges, steering, seats, panels, headliner, carpet, and trim — documented as the work happens.
+
+[![Read →](https://img.shields.io/badge/Read_%E2%86%92-b8956a?style=for-the-badge)](https://jeff-breton.github.io/53-Cadillac-Interior/)
 
 ---
 
@@ -35,7 +40,7 @@ Get an E67 ECM (2008–2009 Trailblazer, 4.2L Atlas I6 / LL8) talking to HP Tune
 
 A book tracing the biblical thread of the keeper — the assignment first given to Adam in Eden to serve and to guard, followed through Genesis and onward in the Hebrew text. Lexical work on the verbs that shape the story, grounded in the primary sources.
 
-[![Read →](https://img.shields.io/badge/Read_%E2%86%92-7c3aed?style=for-the-badge)](https://breton-training.github.io/The-Keeper/)
+[![Read →](https://img.shields.io/badge/Read_%E2%86%92-7c3aed?style=for-the-badge)](https://jeff-breton.github.io/The-Keeper/)
 
 ---
 
@@ -47,7 +52,7 @@ A book tracing the biblical thread of the keeper — the assignment first given 
 
 Voltage, current, and resistance as relationships to reason through — not definitions to memorize. Students leave able to apply Ohm's Law to problems they haven't seen before.
 
-[![Launch Course →](https://img.shields.io/badge/Launch_Course_%E2%86%92-2563eb?style=for-the-badge)](https://breton-training.github.io/dc-electronics-intro/)
+[![Launch Course →](https://img.shields.io/badge/Launch_Course_%E2%86%92-2563eb?style=for-the-badge)](https://jeff-breton.github.io/dc-electronics-intro/)
 
 ### 📋 Delegated Examining Study Engine
 
@@ -55,7 +60,7 @@ Voltage, current, and resistance as relationships to reason through — not defi
 
 Aligned with OPM, DOI, and BLM standards. Builds the working knowledge needed to reason through exam questions — not pattern-match to memorized answers.
 
-[![Launch Study Engine →](https://img.shields.io/badge/Launch_Study_Engine_%E2%86%92-e67e22?style=for-the-badge)](https://breton-training.github.io/DE-Study-Engine/)
+[![Launch Study Engine →](https://img.shields.io/badge/Launch_Study_Engine_%E2%86%92-e67e22?style=for-the-badge)](https://jeff-breton.github.io/DE-Study-Engine/)
 
 <!-- Fermented Dairy is anchored at the bottom of Courses (and Courses is the last content section before In Development). Insert new courses ABOVE this comment. -->
 
@@ -65,7 +70,7 @@ Aligned with OPM, DOI, and BLM standards. Builds the working knowledge needed to
 
 Eight targeted probiotic strains with documented strain-specific effects. Grounded in peer-reviewed literature so practitioners understand why the protocol works, not just how to follow it.
 
-[![Launch Protocol →](https://img.shields.io/badge/Launch_Protocol_%E2%86%92-27ae60?style=for-the-badge)](https://breton-training.github.io/fermented-dairy/)
+[![Launch Protocol →](https://img.shields.io/badge/Launch_Protocol_%E2%86%92-27ae60?style=for-the-badge)](https://jeff-breton.github.io/fermented-dairy/)
 
 ---
 
@@ -81,6 +86,6 @@ Eight targeted probiotic strains with documented strain-specific effects. Ground
 
 <div align="center">
 
-<sub>📬 &nbsp;<a href="mailto:breton.training@gmail.com">breton.training@gmail.com</a></sub>
+<sub>📬 &nbsp;<a href="mailto:redmagne@gmail.com">redmagne@gmail.com</a></sub>
 
 </div>
